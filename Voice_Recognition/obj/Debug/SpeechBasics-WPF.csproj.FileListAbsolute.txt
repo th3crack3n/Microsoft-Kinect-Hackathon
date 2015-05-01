@@ -1,0 +1,46 @@
+C:\Users\sean\Documents\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.exe
+C:\Users\sean\Documents\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.pdb
+C:\Users\sean\Documents\SpeechBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\sean\Documents\SpeechBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\sean\Documents\SpeechBasics-WPF\obj\Debug\App.g.cs
+C:\Users\sean\Documents\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+C:\Users\sean\Documents\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.g.resources
+C:\Users\sean\Documents\SpeechBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+C:\Users\sean\Documents\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\sean\Documents\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\sean\Documents\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.pdb
+C:\Users\sean\Documents\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+E:\Programming\VISUAL STUDIO\GIT REPOS\KinectWindowsInteraction\Voice_Recognition\obj\Debug\SpeechBasics-WPF.exe
+E:\Programming\VISUAL STUDIO\GIT REPOS\KinectWindowsInteraction\Voice_Recognition\obj\Debug\SpeechBasics-WPF.pdb
+E:\Programming\VISUAL STUDIO\GIT REPOS\KinectWindowsInteraction\Voice_Recognition\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+E:\Programming\VISUAL STUDIO\GIT REPOS\KinectWindowsInteraction\Voice_Recognition\obj\Debug\MainWindow.baml
+E:\Programming\VISUAL STUDIO\GIT REPOS\KinectWindowsInteraction\Voice_Recognition\obj\Debug\MainWindow.g.cs
+E:\Programming\VISUAL STUDIO\GIT REPOS\KinectWindowsInteraction\Voice_Recognition\obj\Debug\App.g.cs
+E:\Programming\VISUAL STUDIO\GIT REPOS\KinectWindowsInteraction\Voice_Recognition\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+E:\Programming\VISUAL STUDIO\GIT REPOS\KinectWindowsInteraction\Voice_Recognition\obj\Debug\SpeechBasics-WPF.g.resources
+E:\Programming\VISUAL STUDIO\GIT REPOS\KinectWindowsInteraction\Voice_Recognition\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+E:\Programming\VISUAL STUDIO\GIT REPOS\KinectWindowsInteraction\Voice_Recognition\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\Voice_Recognition\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\Voice_Recognition\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\Voice_Recognition\obj\Debug\MainWindow.baml
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\Voice_Recognition\obj\Debug\MainWindow.g.cs
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\Voice_Recognition\obj\Debug\App.g.cs
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\Voice_Recognition\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\Voice_Recognition\obj\Debug\SpeechBasics-WPF.g.resources
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\Voice_Recognition\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\Voice_Recognition\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\Voice_Recognition\bin\Debug\SpeechBasics-WPF.exe
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\Voice_Recognition\bin\Debug\SpeechBasics-WPF.pdb
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\Voice_Recognition\obj\Debug\SpeechBasics-WPF.pdb
+C:\Users\sean\Dropbox\Kinect Hackathon\Voice_Recognition\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\sean\Dropbox\Kinect Hackathon\Voice_Recognition\bin\Debug\SpeechBasics-WPF.exe
+C:\Users\sean\Dropbox\Kinect Hackathon\Voice_Recognition\bin\Debug\SpeechBasics-WPF.pdb
+C:\Users\sean\Dropbox\Kinect Hackathon\Voice_Recognition\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\sean\Dropbox\Kinect Hackathon\Voice_Recognition\obj\Debug\MainWindow.baml
+C:\Users\sean\Dropbox\Kinect Hackathon\Voice_Recognition\obj\Debug\MainWindow.g.cs
+C:\Users\sean\Dropbox\Kinect Hackathon\Voice_Recognition\obj\Debug\App.g.cs
+C:\Users\sean\Dropbox\Kinect Hackathon\Voice_Recognition\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+C:\Users\sean\Dropbox\Kinect Hackathon\Voice_Recognition\obj\Debug\SpeechBasics-WPF.g.resources
+C:\Users\sean\Dropbox\Kinect Hackathon\Voice_Recognition\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+C:\Users\sean\Dropbox\Kinect Hackathon\Voice_Recognition\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\sean\Dropbox\Kinect Hackathon\Voice_Recognition\obj\Debug\SpeechBasics-WPF.pdb

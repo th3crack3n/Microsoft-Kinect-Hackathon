@@ -1,0 +1,123 @@
+﻿<grammar version="1.0" xml:lang="en-US" root="rootRule" tag-format="semantics/1.0-literals" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="rootRule">
+    <one-of>
+      <item>
+        <tag>TypeMicrosoft</tag>
+        <one-of>
+          <item> Type Microsoft </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>TypeEnter</tag>
+        <one-of>
+          <item>Enter</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>TypeWeather</tag>
+        <one-of>
+          <item> Type Ames Weather</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>INTERNET</tag>
+        <one-of>
+          <item> kinect internet </item>
+          <item> kinect internet explorer </item>
+          <item> kinect i e </item>
+          <item> kinect to internet</item>
+          <item> kinect to internet explorer</item>
+          <item> kinect to i e</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>CHROME</tag>
+        <one-of>
+          <item> kinect chrome </item>
+          <item> kinect to chrome</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>FACEBOOK</tag>
+        <one-of>
+          <item> kinect facebook </item>
+          <item> kinect to facebook </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>GOOGLE</tag>
+        <one-of>
+          <item> kinect google </item>
+          <item> kinect to google </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>IASTATE</tag>
+        <one-of>
+          <item> kinect iowa state </item>
+          <item> kinect to iowa state </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>CMD</tag>
+        <one-of>
+          <item> kinect to c m d </item>
+          <item> kinect to command prompt </item>
+          <item> kinect to command </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>NOTEPAD</tag>
+        <one-of>
+          <item> kinect to notepad</item>
+          <item> kinect to note </item>
+          <item> kinect to notes </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>STARTTYPE</tag>
+        <one-of>
+          <item> start type</item>
+          <item> start typing </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>ENDTYPE</tag>
+        <one-of>
+          <item> end type </item>
+          <item> end typing </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>LEFTCLICK</tag>
+        <one-of>
+          <item> left click </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>RIGHTCLICK</tag>
+        <one-of>
+          <item> right click </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>DOUBLECLICK</tag>
+        <one-of>
+          <item> double click </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>GRAB</tag>
+        <one-of>
+          <item> grab </item>
+        </one-of>
+      </item>
+      <item>
+        <tag> RELEASE </tag>
+        <one-of>
+          <item> release </item>
+        </one-of>
+      </item>
+    </one-of>
+  </rule>
+</grammar>

@@ -1,0 +1,81 @@
+C:\My Stuff\Downloads\Science Fair - Kinnect\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\My Stuff\Downloads\Science Fair - Kinnect\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\My Stuff\Downloads\Science Fair - Kinnect\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\My Stuff\Downloads\Science Fair - Kinnect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\My Stuff\Downloads\Science Fair - Kinnect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\My Stuff\Downloads\Science Fair - Kinnect\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\My Stuff\Downloads\Science Fair - Kinnect\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\My Stuff\Downloads\Science Fair - Kinnect\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\My Stuff\Downloads\Science Fair - Kinnect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\My Stuff\Downloads\Science Fair - Kinnect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\My Stuff\Downloads\Science Fair - Kinnect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\My Stuff\Downloads\Science Fair - Kinnect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\My Stuff\Downloads\Science Fair - Kinnect\SkeletonBasics-WPF\bin\Debug\VJoy.dll
+C:\My Stuff\Downloads\Science Fair - Kinnect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_Content.g.cs
+C:\My Stuff\Downloads\Science Fair - Kinnect\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe.CodeAnalysisLog.xml
+C:\My Stuff\Downloads\Science Fair - Kinnect\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe.lastcodeanalysissucceeded
+C:\My Stuff\School\2012-2013\Independent Research\V2\obj\Debug\SkeletonBasics-WPF.exe
+C:\My Stuff\School\2012-2013\Independent Research\V2\obj\Debug\SkeletonBasics-WPF.pdb
+C:\My Stuff\School\2012-2013\Independent Research\V2\bin\Debug\VJoy.dll
+C:\My Stuff\School\2012-2013\Independent Research\V2\bin\Debug\SkeletonBasics-WPF.exe
+C:\My Stuff\School\2012-2013\Independent Research\V2\bin\Debug\SkeletonBasics-WPF.pdb
+C:\My Stuff\School\2012-2013\Independent Research\V2\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\My Stuff\School\2012-2013\Independent Research\V2\obj\Debug\MainWindow.baml
+C:\My Stuff\School\2012-2013\Independent Research\V2\obj\Debug\MainWindow.g.cs
+C:\My Stuff\School\2012-2013\Independent Research\V2\obj\Debug\App.g.cs
+C:\My Stuff\School\2012-2013\Independent Research\V2\obj\Debug\SkeletonBasics-WPF_Content.g.cs
+C:\My Stuff\School\2012-2013\Independent Research\V2\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\My Stuff\School\2012-2013\Independent Research\V2\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\My Stuff\School\2012-2013\Independent Research\V2\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\My Stuff\School\2012-2013\Independent Research\V2\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\My Stuff\School\2012-2013\Independent Research\V2\bin\Debug\SkeletonBasics-WPF.exe.config
+C:\My Stuff\School\2012-2013\Independent Research\V3\bin\Debug\SkeletonBasics-WPF.exe.config
+C:\My Stuff\School\2012-2013\Independent Research\V3\obj\Debug\SkeletonBasics-WPF.exe
+C:\My Stuff\School\2012-2013\Independent Research\V3\obj\Debug\SkeletonBasics-WPF.pdb
+C:\My Stuff\School\2012-2013\Independent Research\V3\bin\Debug\VJoy.dll
+C:\My Stuff\School\2012-2013\Independent Research\V3\bin\Debug\SkeletonBasics-WPF.exe
+C:\My Stuff\School\2012-2013\Independent Research\V3\bin\Debug\SkeletonBasics-WPF.pdb
+C:\My Stuff\School\2012-2013\Independent Research\V3\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\My Stuff\School\2012-2013\Independent Research\V3\obj\Debug\MainWindow.baml
+C:\My Stuff\School\2012-2013\Independent Research\V3\obj\Debug\MainWindow.g.cs
+C:\My Stuff\School\2012-2013\Independent Research\V3\obj\Debug\App.g.cs
+C:\My Stuff\School\2012-2013\Independent Research\V3\obj\Debug\SkeletonBasics-WPF_Content.g.cs
+C:\My Stuff\School\2012-2013\Independent Research\V3\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\My Stuff\School\2012-2013\Independent Research\V3\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\My Stuff\School\2012-2013\Independent Research\V3\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\My Stuff\School\2012-2013\Independent Research\V3\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+E:\My School\High School\2012-2013\Independent Research\V3\bin\Debug\SkeletonBasics-WPF.exe.config
+E:\My School\High School\2012-2013\Independent Research\V3\obj\Debug\SkeletonBasics-WPF.exe
+E:\My School\High School\2012-2013\Independent Research\V3\obj\Debug\SkeletonBasics-WPF.pdb
+E:\Programming\VISUAL STUDIO\2014\Kinneract\bin\Debug\SkeletonBasics-WPF.exe.config
+E:\Programming\VISUAL STUDIO\2014\Kinneract\obj\Debug\SkeletonBasics-WPF.exe
+E:\Programming\VISUAL STUDIO\2014\Kinneract\obj\Debug\SkeletonBasics-WPF.pdb
+E:\Programming\VISUAL STUDIO\2014\Kinneract\bin\Debug\SkeletonBasics-WPF.exe
+E:\Programming\VISUAL STUDIO\2014\Kinneract\bin\Debug\SkeletonBasics-WPF.pdb
+E:\Programming\VISUAL STUDIO\2014\Kinneract\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+E:\Programming\VISUAL STUDIO\2014\Kinneract\obj\Debug\MainWindow.baml
+E:\Programming\VISUAL STUDIO\2014\Kinneract\obj\Debug\MainWindow.g.cs
+E:\Programming\VISUAL STUDIO\2014\Kinneract\obj\Debug\App.g.cs
+E:\Programming\VISUAL STUDIO\2014\Kinneract\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+E:\Programming\VISUAL STUDIO\2014\Kinneract\obj\Debug\SkeletonBasics-WPF.g.resources
+E:\Programming\VISUAL STUDIO\2014\Kinneract\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+E:\Programming\VISUAL STUDIO\2014\Kinneract\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\bin\Debug\SkeletonBasics-WPF.exe.config
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\obj\Debug\MainWindow.baml
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\obj\Debug\MainWindow.g.cs
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\obj\Debug\App.g.cs
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Ryan\Source\Repos\KinectWindowsInteraction\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+E:\Programming\VISUAL STUDIO\GIT REPOS\KinectWindowsInteraction\bin\Debug\SkeletonBasics-WPF.exe.config
+E:\Programming\VISUAL STUDIO\GIT REPOS\KinectWindowsInteraction\obj\Debug\SkeletonBasics-WPF.exe
+E:\Programming\VISUAL STUDIO\GIT REPOS\KinectWindowsInteraction\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\sean\Documents\GitHub\KinectWindowsInteraction\bin\Debug\SkeletonBasics-WPF.exe.config
+C:\Users\sean\Documents\GitHub\KinectWindowsInteraction\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\sean\Documents\GitHub\KinectWindowsInteraction\obj\Debug\SkeletonBasics-WPF.pdb
